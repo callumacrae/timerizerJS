@@ -1,0 +1,21 @@
+{
+  "name": "timerizer",
+  "version": "0.0.0",
+  "description": "ActiveSupport time stuff in JS",
+  "main": "timerizer.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Callum Macrae <callum@macr.ae>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.2",
+    "mocha": "^2.1.0",
+    "should": "^4.4.2"
+  }
+}
