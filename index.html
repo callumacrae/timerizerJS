@@ -84,7 +84,7 @@
 
 		var input = '(3).days.ago();';
 
-		$('input, select').on('change', function () {
+		$('input, select').on('change keyup', function () {
 			var num = +$('#number').val();
 			var unit = $('#unit').val() + (num === 1 ? '' : 's');
 			var calc = $('#calc').val();
