@@ -1,4 +1,4 @@
-# TimerizerJS
+# TimerizerJS [![Build Status](https://travis-ci.org/callumacrae/timerizerJS.svg)](https://travis-ci.org/callumacrae/timerizerJS)
 
 A neat little utility for working with relative times in JavaScript.
 
