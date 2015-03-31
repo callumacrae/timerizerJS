@@ -14,7 +14,7 @@ on Rails' [ActiveSupport], which is also what this was based on.
 
 ## Installation
 
-Either download the repo and just include `timerizr.js` or
+Either download the repo and just include `timerizer.js` or
 `build/timerizer.min.js` into your project (using AMD, CommonJS or just good
 old globals), or install through npm using `npm install timerizer`.
 
